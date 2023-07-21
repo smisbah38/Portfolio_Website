@@ -330,19 +330,23 @@ color:  rgb(199, 32, 32);
   
 }
 @media only screen and (max-width: 600px){
+    .text{
+       padding-top: 280px;
+        line-height: 20px;
+    }
     .nav .links #home{
-        font-size: 12px;
+        font-size: 14px;
     }
     .text{
        
-        font-size: 14px;
+        font-size: 16px;
     }
     .text .name{
-        font-size: 25px;
+        font-size: 28px;
       
     }
     .text .skill{
-       font-size: 14px;
+       font-size: 16px;
     }
     .logo a{
         font-size: 12px;
@@ -394,6 +398,9 @@ color:  rgb(199, 32, 32);
     .text{
        
         font-size: 10px;
+    }
+    .waviy span{
+        font-size: 8px;
     }
     .text .name{
         font-size: 18px;
